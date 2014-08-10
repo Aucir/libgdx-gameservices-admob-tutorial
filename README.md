@@ -7,4 +7,7 @@ Open source and available on GitHub - https://github.com/Aucir
 
 Companion tutorial on the blog - http://myaucir.blogspot.com/2014/08/google-play-game-services-and-admob-in.html
 
-Download the sample applicaiton on Google play - https://play.google.com/store/apps/details?id=com.aucir.numbers.android
+Download the sample game on Google play - https://play.google.com/store/apps/details?id=com.aucir.numbers.android
+Touch the right number. 
+It is a test you brain hand game. 
+It is harder than you think. 
