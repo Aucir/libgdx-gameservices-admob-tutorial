@@ -1,7 +1,7 @@
 libgdx-gameservices-admob-tutorial
 ==================================
 
-A sample application demonstrating how to integrate a LibGDX Android game with Google Play Game Services (leaderboards and achievements) and AdMob.
+A sample application demonstrating how to integrate a LibGDX Android game with Google Play Game Services (leaderboards and achievements) and AdMob with Android Studio.
 
 Open source and available on GitHub - https://github.com/Aucir
 
