@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/core-1.0-d4dda2960b7f1b33c953f24c1a897966974ec196.jar"
+        jar="/Users/danielq/git/numbers-android/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2a70dc122da54117e57fcca8712a601265382dfc"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.2.0-45c6b6556a454370dd745ac31968864f92282604.jar"
+        jar="/Users/danielq/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.2.0/cc39fa3dbad14b247655266c10e64367418564bd/gdx-box2d-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cc39fa3dbad14b247655266c10e64367418564bd"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.2.0-39f43cfdfba3141448dab4f9d4bb36572f04670f.jar"
+        jar="/Users/danielq/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.2.0/2ed57a7d155e5060ea773eed21804a23342fb47/gdx-backend-android-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="02ed57a7d155e5060ea773eed21804a23342fb47"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.2.0-5986207436798a03e94c586c10af9ac5f67eafc4.jar"
+        jar="/Users/danielq/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.2.0/a9a2c9513bf0dc697e20e1eee35802e024972746/gdx-freetype-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a9a2c9513bf0dc697e20e1eee35802e024972746"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/classes-d3d113595f451cadf2a803c99775c6edc2c77fb6.jar"
+        jar="/Users/danielq/git/numbers-android/android/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/support-v4-19.1.0-bdfaa2dea6c540cb9f400554b70c73ca5b92f561.jar"
+        jar="/Users/danielq/daniel/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/danielq/git/numbers-android/android/build/intermediates/pre-dexed/debug/gdx-1.2.0-29a178509ad3555f41c8e0ff120c10d6e406ec80.jar"
+        jar="/Users/danielq/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.2.0/eb55d6eb1165daf6be23189767c19d811ca5eb36/gdx-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb55d6eb1165daf6be23189767c19d811ca5eb36"/>
+
+</pre-dex-items>
